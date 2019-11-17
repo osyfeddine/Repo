@@ -1,0 +1,1 @@
+copy C:\sites\backblue.gif %1
